@@ -1,0 +1,1470 @@
+Vaccine: COVISHIELD 
+Area: Ward P North Corporation - MH 
+Pincode: 400097 
+
+Age Group: 18 
+Center Name: M W DESAI HOSPITAL 1 
+Date: 25-01-2022 
+Dose1 Slot: 18 
+Dose2 Slot: 48 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K West Corporation - MH 
+Pincode: 400058 
+
+Age Group: 18 
+Center Name: Cooper Hospital 1 
+Date: 25-01-2022 
+Dose1 Slot: 6 
+Dose2 Slot: 10 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward E Corporation - MH 
+Pincode: 400010 
+
+Age Group: 18 
+Center Name: PRINCE ALI KHAN HOSPITAL 1 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 49 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward N Corporation - MH 
+Pincode: 400086 
+
+Age Group: 18 
+Center Name: SARVODAYA HOSPITAL- Ghatkopar 
+Date: 25-01-2022 
+Dose1 Slot: 100 
+Dose2 Slot: 99 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward M West Corporation - MH 
+Pincode: 400074 
+
+Age Group: 18 
+Center Name: INLAKS HOSPITAL Chembur Mumbai 
+Date: 25-01-2022 
+Dose1 Slot: 100 
+Dose2 Slot: 100 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward H West Corporation - MH 
+Pincode: 400050 
+
+Age Group: 18 
+Center Name: Bhabha Hospital Bandra 1 
+Date: 25-01-2022 
+Dose1 Slot: 8 
+Dose2 Slot: 3 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P South Corporation - MH 
+Pincode: 400061 
+
+Age Group: 18 
+Center Name: P/S Kapadia Multi Hospital 
+Date: 25-01-2022 
+Dose1 Slot: 0 
+Dose2 Slot: 10 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward L Corporation - MH 
+Pincode: 400024 
+
+Age Group: 18 
+Center Name: Aryan Hospital Medical Centre 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 50 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward A Corporation - MH 
+Pincode: 400020 
+
+Age Group: 18 
+Center Name: BOMBAY HOSPITAL (Pvt) MUMBAI 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 50 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward L Corporation - MH 
+Pincode: 400072 
+
+Age Group: 18 
+Center Name: AXON HOSPITAL 
+Date: 25-01-2022 
+Dose1 Slot: 199 
+Dose2 Slot: 198 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward F South Corporation - MH 
+Pincode: 400012 
+
+Age Group: 18 
+Center Name: TATA MEMORIAL HOSPITAL PAREL 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 7 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward M East Corporation - MH 
+Pincode: 400088 
+
+Age Group: 18 
+Center Name: Shree Siddhi Multispec. Hosp 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 50 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P North Corporation - MH 
+Pincode: 400097 
+
+Age Group: 18 
+Center Name: Sanjeevni Hospital Malad 
+Date: 25-01-2022 
+Dose1 Slot: 150 
+Dose2 Slot: 150 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K East Corporation - MH 
+Pincode: 400059 
+
+Age Group: 18 
+Center Name: SEVEN HIILS 1 
+Date: 25-01-2022 
+Dose1 Slot: 98 
+Dose2 Slot: 92 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P South Corporation - MH 
+Pincode: 400104 
+
+Age Group: 18 
+Center Name: Admire Eye Care 
+Date: 25-01-2022 
+Dose1 Slot: 100 
+Dose2 Slot: 100 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R South Corporation - MH 
+Pincode: 400101 
+
+Age Group: 18 
+Center Name: ESIS Gh Kandiwali 
+Date: 25-01-2022 
+Dose1 Slot: 26 
+Dose2 Slot: 68 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K West Corporation - MH 
+Pincode: 400102 
+
+Age Group: 18 
+Center Name: Navicare Multispec. Clinic 
+Date: 25-01-2022 
+Dose1 Slot: 500 
+Dose2 Slot: 500 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward S Corporation - MH 
+Pincode: 400076 
+
+Age Group: 18 
+Center Name: IIT BOMBAY POWAI PVT 
+Date: 25-01-2022 
+Dose1 Slot: 25 
+Dose2 Slot: 49 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K East Corporation - MH 
+Pincode: 400102 
+
+Age Group: 18 
+Center Name: HBT TRAUMA HOSPITAL 
+Date: 25-01-2022 
+Dose1 Slot: 7 
+Dose2 Slot: 2 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P North Corporation - MH 
+Pincode: 400064 
+
+Age Group: 18 
+Center Name: Thunga Hospital Malad 
+Date: 25-01-2022 
+Dose1 Slot: 30 
+Dose2 Slot: 30 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward G South Corporation - MH 
+Pincode: 400018 
+
+Age Group: 18 
+Center Name: R A Podar Medical College 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 19 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward G South Corporation - MH 
+Pincode: 400018 
+
+Age Group: 18 
+Center Name: ESIS HOSPITAL WORLI 
+Date: 25-01-2022 
+Dose1 Slot: 49 
+Dose2 Slot: 48 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward G North Corporation - MH 
+Pincode: 400025 
+
+Age Group: 18 
+Center Name: Fayth Clinic 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 20 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R North Corporation - MH 
+Pincode: 400103 
+
+Age Group: 18 
+Center Name: Karuna Hospital Borivali 
+Date: 25-01-2022 
+Dose1 Slot: 97 
+Dose2 Slot: 97 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P North Corporation - MH 
+Pincode: 400064 
+
+Age Group: 18 
+Center Name: SURANA HOSPITAL 1 
+Date: 25-01-2022 
+Dose1 Slot: 100 
+Dose2 Slot: 96 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward E Corporation - MH 
+Pincode: 400008 
+
+Age Group: 18 
+Center Name: Nair Hospital 1 
+Date: 25-01-2022 
+Dose1 Slot: 8 
+Dose2 Slot: 6 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R North Corporation - MH 
+Pincode: 400068 
+
+Age Group: 18 
+Center Name: DAHISAR COVID JUMBO 1 
+Date: 25-01-2022 
+Dose1 Slot: 8 
+Dose2 Slot: 6 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward H West Corporation - MH 
+Pincode: 400052 
+
+Age Group: 18 
+Center Name: PD HINDUJA NATIONAL HOSP KHAR 
+Date: 25-01-2022 
+Dose1 Slot: 0 
+Dose2 Slot: 18 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward M East Corporation - MH 
+Pincode: 400088 
+
+Age Group: 18 
+Center Name: Shatabdi Hospital-1-Govandi 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 9 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward S Corporation - MH 
+Pincode: 400076 
+
+Age Group: 18 
+Center Name: Powai Poliyclinc And Hospital 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 50 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R South Corporation - MH 
+Pincode: 400067 
+
+Age Group: 18 
+Center Name: Chavan Hospital Kandivali West 
+Date: 25-01-2022 
+Dose1 Slot: 29 
+Dose2 Slot: 30 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K West Corporation - MH 
+Pincode: 400053 
+
+Age Group: 18 
+Center Name: Indian Oil Nagar 
+Date: 25-01-2022 
+Dose1 Slot: 0 
+Dose2 Slot: 197 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward C Corporation - MH 
+Pincode: 400004 
+
+Age Group: 18 
+Center Name: H N Reliance Hosp MUMBAI 1 
+Date: 25-01-2022 
+Dose1 Slot: 98 
+Dose2 Slot: 97 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward D Corporation - MH 
+Pincode: 400007 
+
+Age Group: 18 
+Center Name: Bhatia Hospital Tardeo 
+Date: 25-01-2022 
+Dose1 Slot: 25 
+Dose2 Slot: 49 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K West Corporation - MH 
+Pincode: 400053 
+
+Age Group: 18 
+Center Name: K/W Wellspring Healthcare 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 10 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward A Corporation - MH 
+Pincode: 400001 
+
+Age Group: 18 
+Center Name: ST GEORGE HOSPITAL 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 10 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward N Corporation - MH 
+Pincode: 400077 
+
+Age Group: 18 
+Center Name: PARAKH HOSPITAL Ghatkoper East 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 50 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward D Corporation - MH 
+Pincode: 400026 
+
+Age Group: 18 
+Center Name: BREACH CANDY HOSPITAL 1 
+Date: 25-01-2022 
+Dose1 Slot: 8 
+Dose2 Slot: 7 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward S Corporation - MH 
+Pincode: 400078 
+
+Age Group: 18 
+Center Name: Naval Hospital Bhandup West 
+Date: 25-01-2022 
+Dose1 Slot: 6 
+Dose2 Slot: 0 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R Central Corporation - MH 
+Pincode: 400092 
+
+Age Group: 18 
+Center Name: R/C APEX HOSPITALS 
+Date: 25-01-2022 
+Dose1 Slot: 250 
+Dose2 Slot: 247 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward T Corporation - MH 
+Pincode: 400080 
+
+Age Group: 18 
+Center Name: Apex Hospitals Mulund 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 100 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R South Corporation - MH 
+Pincode: 400067 
+
+Age Group: 18 
+Center Name: BDBA Hospital 1 
+Date: 25-01-2022 
+Dose1 Slot: 37 
+Dose2 Slot: 25 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P North Corporation - MH 
+Pincode: 400064 
+
+Age Group: 18 
+Center Name: RIDDHI VINAYAK HOSPITAL 
+Date: 25-01-2022 
+Dose1 Slot: 20 
+Dose2 Slot: 20 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward N Corporation - MH 
+Pincode: 400086 
+
+Age Group: 18 
+Center Name: SHANTINIKETAN HOSPITAL 
+Date: 25-01-2022 
+Dose1 Slot: 7 
+Dose2 Slot: 9 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K East Corporation - MH 
+Pincode: 400093 
+
+Age Group: 18 
+Center Name: HOLY SPIRIT HOSPITAL 1 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 5 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward M East Corporation - MH 
+Pincode: 400071 
+
+Age Group: 18 
+Center Name: Kolekar Hosp And ICCU 
+Date: 25-01-2022 
+Dose1 Slot: 24 
+Dose2 Slot: 25 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward H West Corporation - MH 
+Pincode: 400052 
+
+Age Group: 18 
+Center Name: Mahavir Hospital Khar West 
+Date: 25-01-2022 
+Dose1 Slot: 13 
+Dose2 Slot: 13 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K West Corporation - MH 
+Pincode: 400049 
+
+Age Group: 18 
+Center Name: Praxis Healthcare 
+Date: 25-01-2022 
+Dose1 Slot: 30 
+Dose2 Slot: 30 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K West Corporation - MH 
+Pincode: 400053 
+
+Age Group: 18 
+Center Name: Lifecare Diagnostics 
+Date: 25-01-2022 
+Dose1 Slot: 9 
+Dose2 Slot: 9 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P South Corporation - MH 
+Pincode: 400104 
+
+Age Group: 18 
+Center Name: Shree Sai Clinic Goregaon 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 50 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward F North Corporation - MH 
+Pincode: 400022 
+
+Age Group: 18 
+Center Name: Sion Hospital 1 
+Date: 25-01-2022 
+Dose1 Slot: 57 
+Dose2 Slot: 55 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K West Corporation - MH 
+Pincode: 400049 
+
+Age Group: 18 
+Center Name: Bhartiya Arogya Nidhi Hospital 
+Date: 25-01-2022 
+Dose1 Slot: 20 
+Dose2 Slot: 30 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R North Corporation - MH 
+Pincode: 400092 
+
+Age Group: 18 
+Center Name: BHAGWATI HOSPITAL 1 
+Date: 25-01-2022 
+Dose1 Slot: 12 
+Dose2 Slot: 33 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward H East Corporation - MH 
+Pincode: 400051 
+
+Age Group: 18 
+Center Name: BKC Jumbo COVID Facility 1 
+Date: 25-01-2022 
+Dose1 Slot: 198 
+Dose2 Slot: 294 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R North Corporation - MH 
+Pincode: 400092 
+
+Age Group: 18 
+Center Name: HCG APEX HOSPITAL BORIVALI W 
+Date: 25-01-2022 
+Dose1 Slot: 5000 
+Dose2 Slot: 5000 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward M West Corporation - MH 
+Pincode: 400071 
+
+Age Group: 18 
+Center Name: SURANA SETHIA HOSPITAL CHEMBUR 
+Date: 25-01-2022 
+Dose1 Slot: 199 
+Dose2 Slot: 200 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R Central Corporation - MH 
+Pincode: 400066 
+
+Age Group: 18 
+Center Name: Purnima Hospital 
+Date: 25-01-2022 
+Dose1 Slot: 49 
+Dose2 Slot: 47 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward A Corporation - MH 
+Pincode: 400001 
+
+Age Group: 18 
+Center Name: GT HOSPITAL 
+Date: 25-01-2022 
+Dose1 Slot: 9 
+Dose2 Slot: 9 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward E Corporation - MH 
+Pincode: 400011 
+
+Age Group: 18 
+Center Name: Meesha Diagnostic And Polyclin 
+Date: 25-01-2022 
+Dose1 Slot: 100 
+Dose2 Slot: 100 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P South Corporation - MH 
+Pincode: 400063 
+
+Age Group: 18 
+Center Name: LIFELINE MEDICARE HOSPITAL 
+Date: 25-01-2022 
+Dose1 Slot: 199 
+Dose2 Slot: 200 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward G North Corporation - MH 
+Pincode: 400016 
+
+Age Group: 18 
+Center Name: SRL PHADAKE LAB MAHIM (W) 
+Date: 25-01-2022 
+Dose1 Slot: 7 
+Dose2 Slot: 16 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P South Corporation - MH 
+Pincode: 400064 
+
+Age Group: 18 
+Center Name: Cloud Nine Maternity Hospital 
+Date: 25-01-2022 
+Dose1 Slot: 100 
+Dose2 Slot: 97 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward N Corporation - MH 
+Pincode: 400086 
+
+Age Group: 18 
+Center Name: SAPNA HEALTH CARE CENTER 
+Date: 25-01-2022 
+Dose1 Slot: 100 
+Dose2 Slot: 100 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward A Corporation - MH 
+Pincode: 400005 
+
+Age Group: 18 
+Center Name: WELLSPRING HEALTHCARE CENTRE 
+Date: 25-01-2022 
+Dose1 Slot: 4 
+Dose2 Slot: 10 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward T Corporation - MH 
+Pincode: 400080 
+
+Age Group: 18 
+Center Name: Hira Mongi Navneet Hospital 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 10 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P North Corporation - MH 
+Pincode: 400097 
+
+Age Group: 18 
+Center Name: Raj Nursing Home Malad East 
+Date: 25-01-2022 
+Dose1 Slot: 20 
+Dose2 Slot: 20 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R South Corporation - MH 
+Pincode: 400067 
+
+Age Group: 18 
+Center Name: Oscar Hospital Kandiwali 
+Date: 25-01-2022 
+Dose1 Slot: 100 
+Dose2 Slot: 100 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward A Corporation - MH 
+Pincode: 400001 
+
+Age Group: 18 
+Center Name: Central Rail Off Waiting Room 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 10 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K West Corporation - MH 
+Pincode: 400056 
+
+Age Group: 18 
+Center Name: Advanced Multi Specialty Hosp 
+Date: 25-01-2022 
+Dose1 Slot: 99 
+Dose2 Slot: 99 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P South Corporation - MH 
+Pincode: 400063 
+
+Age Group: 18 
+Center Name: NESCO 1 
+Date: 25-01-2022 
+Dose1 Slot: 99 
+Dose2 Slot: 91 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward G North Corporation - MH 
+Pincode: 400016 
+
+Age Group: 18 
+Center Name: S L Raheja Hosp 
+Date: 25-01-2022 
+Dose1 Slot: 4 
+Dose2 Slot: 5 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R North Corporation - MH 
+Pincode: 400097 
+
+Age Group: 18 
+Center Name: SAI KRIPA HOSPITAL MALAD EAST 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 10 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward F South Corporation - MH 
+Pincode: 400012 
+
+Age Group: 18 
+Center Name: KEM Hospital 1 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 10 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVAXIN 
+Area: Ward M East Corporation - MH 
+Pincode: 400088 
+
+Age Group: 18 
+Center Name: Shree Siddhi Multispec. Hosp 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 50 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R Central Corporation - MH 
+Pincode: 400066 
+
+Age Group: 18 
+Center Name: KRANTIJYOTI SAVITRIBAI PHULE 1 
+Date: 25-01-2022 
+Dose1 Slot: 9 
+Dose2 Slot: 7 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward F South Corporation - MH 
+Pincode: 400012 
+
+Age Group: 18 
+Center Name: Golden Jublee Block Tata Hosp 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 10 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward S Corporation - MH 
+Pincode: 400078 
+
+Age Group: 18 
+Center Name: MEENAS HOSPITAL 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 50 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K West Corporation - MH 
+Pincode: 400058 
+
+Age Group: 18 
+Center Name: K/W Shraddha Vihar Hospital 
+Date: 25-01-2022 
+Dose1 Slot: 0 
+Dose2 Slot: 200 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward E Corporation - MH 
+Pincode: 400011 
+
+Age Group: 18 
+Center Name: Kasturba Hospital 01 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 49 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K East Corporation - MH 
+Pincode: 400059 
+
+Age Group: 18 
+Center Name: Ameya Surgical And General NH 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 49 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward F North Corporation - MH 
+Pincode: 400022 
+
+Age Group: 18 
+Center Name: K.J.Somaiya Hospital 
+Date: 25-01-2022 
+Dose1 Slot: 5 
+Dose2 Slot: 4 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K West Corporation - MH 
+Pincode: 400056 
+
+Age Group: 18 
+Center Name: NANAVATI HOSPITAL 1 
+Date: 25-01-2022 
+Dose1 Slot: 4 
+Dose2 Slot: 0 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward S Corporation - MH 
+Pincode: 400078 
+
+Age Group: 18 
+Center Name: Central Hospital Bhandup West 
+Date: 25-01-2022 
+Dose1 Slot: 99 
+Dose2 Slot: 97 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward L Corporation - MH 
+Pincode: 400070 
+
+Age Group: 18 
+Center Name: Kurla Bhabha Hospital-1 
+Date: 25-01-2022 
+Dose1 Slot: 8 
+Dose2 Slot: 3 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward N Corporation - MH 
+Pincode: 400086 
+
+Age Group: 18 
+Center Name: N Ward Sant Mukta Bai Hospital 
+Date: 25-01-2022 
+Dose1 Slot: 9 
+Dose2 Slot: 0 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward E Corporation - MH 
+Pincode: 400027 
+
+Age Group: 18 
+Center Name: Dr. Babasaheb Memorial GH 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 7 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward M West Corporation - MH 
+Pincode: 400071 
+
+Age Group: 18 
+Center Name: Sushrut Hospital 1 
+Date: 25-01-2022 
+Dose1 Slot: 49 
+Dose2 Slot: 50 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward A Corporation - MH 
+Pincode: 400001 
+
+Age Group: 18 
+Center Name: CAMA SESSION 1 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 10 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward G North Corporation - MH 
+Pincode: 400016 
+
+Age Group: 18 
+Center Name: P D Hinduja 1 
+Date: 25-01-2022 
+Dose1 Slot: 15 
+Dose2 Slot: 24 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward R South Corporation - MH 
+Pincode: 400067 
+
+Age Group: 18 
+Center Name: SHREE KANDIVALI HITWARDHAK 
+Date: 25-01-2022 
+Dose1 Slot: 0 
+Dose2 Slot: 0 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P North Corporation - MH 
+Pincode: 400097 
+
+Age Group: 18 
+Center Name: SK PATIL HOSPITAL 1 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 0 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward H West Corporation - MH 
+Pincode: 400050 
+
+Age Group: 18 
+Center Name: Lilavati Hospital-1-Bandra 
+Date: 25-01-2022 
+Dose1 Slot: 100 
+Dose2 Slot: 98 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward K East Corporation - MH 
+Pincode: 400058 
+
+Age Group: 18 
+Center Name: Aditya Nursing Home Andheri 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 50 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward D Corporation - MH 
+Pincode: 400034 
+
+Age Group: 18 
+Center Name: B. D. PETIT PARSEE HOSPITAL 1 
+Date: 25-01-2022 
+Dose1 Slot: 50 
+Dose2 Slot: 49 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward H East Corporation - MH 
+Pincode: 400055 
+
+Age Group: 18 
+Center Name: V N Desai Hospital 1 
+Date: 25-01-2022 
+Dose1 Slot: 10 
+Dose2 Slot: 0 
+
+Cost: Free 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward D Corporation - MH 
+Pincode: 400004 
+
+Age Group: 18 
+Center Name: SAIFEE HOSPITAL 
+Date: 25-01-2022 
+Dose1 Slot: 100 
+Dose2 Slot: 100 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward P South Corporation - MH 
+Pincode: 400104 
+
+Age Group: 18 
+Center Name: Suvidha Hosp And Polyclinic 
+Date: 25-01-2022 
+Dose1 Slot: 19 
+Dose2 Slot: 30 
+
+Cost: Paid 
+
+
+*******************************
+
+Vaccine: COVISHIELD 
+Area: Ward E Corporation - MH 
+Pincode: 400027 
+
+Age Group: 18 
+Center Name: BALAJI HEART HOSPITAL -Byculla 
+Date: 25-01-2022 
+Dose1 Slot: 5 
+Dose2 Slot: 4 
+
+Cost: Paid 
+
+
+*******************************
+

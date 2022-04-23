@@ -1,0 +1,15 @@
+Vaccine: COVISHIELD 
+Area: Thane Municipal Corporation 
+Pincode: 400605 
+
+Age Group: 18 
+Center Name: TMC P Prakruti Care Hospital 
+Date: 21/02/2022 
+Dose1 Slot: 50 
+Dose2 Slot: 49 
+
+Cost: Paid 
+
+
+*******************************
+
